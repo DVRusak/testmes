@@ -9,17 +9,19 @@
 </head>
 <body>
 
-<p>
+<div>
     <a href="/user/login">
         <input type="submit" value="Входим в узкие двери">
     </a>
-</form>
-</p>
+</div>
 
-<a href="/user/register">
-    <input type="submit" value="Регаемся">
-</a>
+<div>
+    <a href="/user/register">
+        <input type="submit" value="Регаемся">
+    </a>
+</div>
 
+<img src="../images/rebyata.jpg" alt="" width="300">
 
 </body>
 </html>
