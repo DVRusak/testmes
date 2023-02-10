@@ -21,6 +21,7 @@
     </a>
 </div>
 
+<?echo "Жизни ребят важны"?>
 <img src="../images/rebyata.jpg" alt="" width="300">
 
 </body>
